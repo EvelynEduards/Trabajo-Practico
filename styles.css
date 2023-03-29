@@ -1,0 +1,185 @@
+.items-menu{
+    justify-content:end;
+    }
+    
+    .header-container{
+        padding-top: 10px !important;
+        padding-bottom: 10px !important ;
+        padding-right: 5rem !important;
+        padding-left: 5rem !important;
+    }
+    .text-first {
+        display: block;
+        top: 250px;
+        text-align: right !important;
+        padding-right: 200;
+        padding-left: 480px !important;
+    }
+    
+    p {
+        text-align: center;
+    }
+    
+    .cards-three{
+        padding-left: 200px;
+        padding-right: 200px;
+        padding-bottom: 50px;
+    }
+    
+    .card-paisaje{
+        background-color: #272727;
+        content: 600px;
+        padding-bottom: 51px !important;
+        height: 100%;
+        
+        
+    
+    }
+    
+    .boton-Steve {
+        padding-left: 5px !important;
+        padding-right: 5px !important;
+        padding-top: 2px !important;
+        padding-bottom: 2px !important;
+        margin:0% !important;
+        
+    }
+    .botondos-Steve{
+        padding-left: 5px !important;
+        padding-right: 5px !important;
+        padding-top: 2px !important;
+        padding-bottom: 2px !important;
+        margin-bottom: 0px !important;
+        color: white !important;
+    }
+    .p-Steve {
+        margin-bottom: 0px;
+    }
+    .tarjetas{
+        border-radius:0px !important;
+    
+    }
+    .p-text{
+        text-align: left;
+    }
+    
+    .user-info{
+        display: flex;
+    }
+    
+    .user-imput{
+        width: 50%;
+    
+    }
+    
+    .user-form{
+        margin: 0px 9rem;
+    }
+    
+    .userfirstname{
+        margin-right: 12px;
+    }
+    
+    .userlastname{
+        margin-left: 12px;
+    }
+    
+    .text-muted{
+        text-align: left;
+        font-size: small;
+    }
+    
+    footer {
+        text-align: left;
+        padding: 8px;
+        background-color:#1C3846;
+        color: white;
+      }
+    
+      .categoría {
+        padding-right: 20px!important;
+      }
+    
+      nav {
+        justify-content: center;
+      }
+    
+      .categorias1{
+        padding: 20px;
+        justify-content: center;
+        gap: 30px;
+        
+      }
+    
+      .catlarge{
+        width: 100px;
+      }
+    
+    
+     /*Empieza el CSS del segundo trabajo práctico */
+    
+     .tres-cards{
+        margin-left: 250px !important;
+    
+     } 
+    
+    
+     .card-uno{
+        margin-left: 5px;
+        margin-top: 15px !important;
+    
+      }
+    
+      .titulos-card{
+        color:black
+      }
+    
+      .footertarjeta{
+        color: grey
+      }
+      
+      .valor-ticket{
+        text-align: center;
+      }
+    
+      .formulario-uno{
+        padding-left: 265px!important;
+      }
+    
+      .formulario-dos{
+        padding-right: 265px !important;
+      }
+    
+      .formulario-tres{
+        padding-left: 250px !important;
+        padding-right: 250px !important;
+    
+      }
+    
+      .formulario-cuatro{
+        padding-left: 250px !important ;
+      }
+      .formulario-cinco{
+        padding-right: 250px !important ;
+        padding-top: 7px !important;
+    }
+    
+    .total-pago-dos{
+    
+    background-color: lightblue !important;
+    margin-left: 245px !important;
+    margin-right: 245px !important;
+    margin-top: 20px !important;
+    }
+    
+    .boton-form-uno{
+    padding-left: 12.7rem !important;
+    padding-right: 12.7rem !important;
+    background-color: #97C93E !important;
+    border-color: #97C93E !important;
+    margin-bottom: 20px;
+    }
+    .boton-denuevo {
+        margin-left: 245px !important;
+        margin-right: 5px !important;
+    }
